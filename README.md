@@ -1,4 +1,6 @@
 本项目为本人毕设项目，仅供学习，请勿直接抄袭，如有疑问可直接联系作者。详细介绍请访问CSDN：https://blog.csdn.net/jiqiu12/article/details/140017540
+
+`prepare_data` 目录包含数据采集与预处理脚本，详细说明请参见 [prepare_data/README.md](prepare_data/README.md)。
 其中项目包为KG-VAQSystemOnMedical-master.zip直接下载即可，json数据集较大，爬取自寻医问药网，存放在另一个名为“data”的branch中，不要忘了下载。
 数据集下载完毕后直接放置KG-VAQSystemOnMedical-master文件目录下即可。
 ![image](https://github.com/jiqiu123/KG-VAQSystemOnMedical-master/assets/115466479/dc11f873-1d76-4977-9261-d039730009c5)
